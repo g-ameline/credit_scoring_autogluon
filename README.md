@@ -1,14 +1,14 @@
 # Home Credit Default Risk with autogluon
 
-this is small excercise at using autogluon tabular to train a predictor for credit scoring   
-with the prediction target being: the "likelihood for a customer to not pay back *in time* their loan"
+this is small exercise at using autogluon tabular to train a predictor for credit scoring   
+with the prediction target being the 'likelihood of a customer not paying back their loan on time
 
 ## links
 [kaggle competition main page] (https://www.kaggle.com/c/home-credit-default-risk)  
 
 ## small intro
 
-we have past data from customer of a home credit/loan company and a lot of heterogeuous information
+we have past data from customer of a home credit/loan company and a lot of heterogeneous information
   - different types
   - and missing fields
 
